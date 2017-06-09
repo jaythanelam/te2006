@@ -14,24 +14,4 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-  <script type="text/javascript" href="{{ "/js/jquery.masonry.min.js" | prepend: full_base_url }}"></script>
-  <script type="text/javascript" href="{{ "/js/jquery.imagesloaded.min.js" | prepend: full_base_url }}"></script>
-  <script type="text/javascript">
-    hljs.initHighlightingOnLoad();
-    function applyTiles() {
-      var posts = $('#posts ul');
-      posts.imagesLoaded(function() {
-        $('#posts ul').masonry({ itemSelector : '.post' });;
-      });
-    }
-    $(function() {
-      applyTiles();
-    });
-    $(window).resize(function() {
-      applyTiles();
-    });
-  </script>
-  <style type="text/css">
-  </style>
 </head>
