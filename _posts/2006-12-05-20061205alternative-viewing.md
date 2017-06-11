@@ -4,7 +4,7 @@ date: 2006-12-05
 category: writing
 author: Jennifer
 layout: post
-image:
+image: images/helloworld.png
 ---
 
 I am pleased to announce my personnal portfolio site has finally been coded and is up for viewing. Its been a long time com&#8217;n so if your looking for something a little different, or to just waste some time while you&#8217;re at work, then head on over to ![Jennifer's Pretty Little site!](http://www.Jenniferelam.com) for some pretty pictures and a sense of accomplishment.

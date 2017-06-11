@@ -4,7 +4,7 @@ date: 2006-10-22
 category: writing
 author: Jennifer
 layout: post
-image:
+image: images/helloworld.png
 ---
 
 ![for dad](/te2006/assets/images/dad-this-oneand-8217-s-for-you/1161549264000-missing.jpg)
